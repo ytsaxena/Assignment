@@ -41,12 +41,24 @@ Coil-kt - An image loading library for Android backed by Kotlin Coroutines.
 Material Components for Android - Modular and customizable Material Design UI components for Android
 
 
+Here is the video Demonstrate of running APP
+
+https://github.com/ytsaxena/Assignment/assets/87789759/e6e8009b-f9d1-4e84-9183-48ff74d8d299
 
 
+(I am unable to implement ROOM DB right now ) 
 
+To use this project clone this repository or Download ZIP 
 
+Open Project in Android Studio 
 
+These are the current configurations of project 
 
+Gradle plugin 8.1.1
+Using Gradle 8.0 
+compile sdk 33 (Android 13)
+min sdk 30 (Android 11)
+target sdk 33
 
 
 
